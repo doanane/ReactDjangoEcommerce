@@ -1,0 +1,12 @@
+yarn run v1.22.22
+info Commands available from binary scripts: acorn, acorn.cmd, browserslist, browserslist.cmd, esbuild, esbuild.cmd, eslint, eslint.cmd, js-yaml, js-yaml.cmd, jsesc, jsesc.cmd, json5, json5.cmd, nanoid, nanoid.cmd, node-which, node-which.cmd, parser, parser.cmd, rollup, rollup.cmd, semver, semver.cmd, update-browserslist-db, update-browserslist-db.cmd, vite, vite.cmd
+info Project commands
+   - build
+      vite build
+   - dev
+      vite
+   - lint
+      eslint .
+   - preview
+      vite preview
+Done in 0.09s.
